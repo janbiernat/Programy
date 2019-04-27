@@ -1,1 +1,1 @@
-Tutaj umieszczam programy, które napisałem. Może komuś się przydadzą. Można znich korzystać bez ograniczeń. 
+Tutaj umieszczone są programy, które napisałem jakiś czas temu. Można z tych programów korzystać bez ograniczeń. 
